@@ -57,3 +57,9 @@ Each question can be evaluated as:
 Count the number of ❌ Critical Risks.
 Focus on eliminating Critical Risks first,
 then reduce ⚠️ items step by step.
+
+## Who I Am
+
+I am a certified AWS professional and a social welfare manager with over 15 years of field experience in Japan.
+
+I focus on improving IT governance and cloud readiness in small social welfare organizations.
