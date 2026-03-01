@@ -34,3 +34,18 @@ and improve their cloud and security practices step by step.
 ### 4. Real Risk in Welfare Organization
 - What happens if a staff member leaves the organization?
 - Is their account immediately disabled?
+## Assessment Level
+
+Each question can be evaluated as:
+
+- ✅ Good (Properly managed)
+- ⚠️ Needs Improvement
+- ❌ Critical Risk
+
+---
+
+## Scoring Concept (Simple Version)
+
+- 0–3 Critical Risks → Immediate Action Required
+- 4–7 Needs Improvement → Improvement Plan Needed
+- Mostly Good → Low Risk Organization
