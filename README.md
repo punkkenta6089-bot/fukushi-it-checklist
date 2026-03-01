@@ -25,8 +25,12 @@ and improve their cloud and security practices step by step.
 - Do all staff have individual accounts?
 - Are shared passwords being used?
 - Is multi-factor authentication enabled?
-- 
+  
 ### 3. Backup Practice
 - Is backup stored in a different physical location?
 - Is cloud storage being used?
 - Who is responsible for backup verification?
+
+### 4. Real Risk in Welfare Organization
+- What happens if a staff member leaves the organization?
+- Is their account immediately disabled?
