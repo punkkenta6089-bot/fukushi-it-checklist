@@ -49,3 +49,11 @@ Each question can be evaluated as:
 - 0–3 Critical Risks → Immediate Action Required
 - 4–7 Needs Improvement → Improvement Plan Needed
 - Mostly Good → Low Risk Organization
+
+---
+
+### How to Use
+
+Count the number of ❌ Critical Risks.
+Focus on eliminating Critical Risks first,
+then reduce ⚠️ items step by step.
